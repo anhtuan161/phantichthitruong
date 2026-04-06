@@ -25,7 +25,7 @@ export default function Navbar() {
           <span>
             Co-living Đà Lạt{" "}
             <span className="text-[#94a3b8] font-normal text-sm">
-              | Market Research
+              | Nghiên cứu thị trường
             </span>
           </span>
         </a>
